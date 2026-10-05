@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #2A5D5A;
+}
+.title{
+    margin: 22px auto;
+    background-color: #311313;
+    color: white;
+    text-align: center;
+    width: 636px;
+    font-size: 64px;
+}
+.papa{
+    background-color: #0000;
+    border: 10px solid red;
+    padding: 39px 52px;
+    
+}
+.tyle{
+    background-color: #1FE8B7;
+
+}
